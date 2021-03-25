@@ -1,0 +1,16 @@
+{
+  "name": "curso_asincronismo",
+  "version": "1.0.0",
+  "description": "Curso de asincronismo de JavaScript (Platzi)",
+  "main": "src\u001b\u001f\u001b\u001f\u001b\u001f\u001b\u001f//////|/index.js",
+  "scripts": {
+    "callback": "node src/callback/index.js"
+  },
+  "keywords": [
+    "callbacks",
+    "promise",
+    "async"
+  ],
+  "author": "Alexis Torchio (torchio.alexis@gmail.com)",
+  "license": "MIT"
+}
